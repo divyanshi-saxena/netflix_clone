@@ -1,3 +1,9 @@
+API Key (v3) - 2762f234d1897f7beb6570327b2a3854
+Example - https://api.themoviedb.org/3/movie/550?api_key=2762f234d1897f7beb6570327b2a3854
+API Read Access Token (v4) - eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiIyNzYyZjIzNGQxODk3ZjdiZWI2NTcwMzI3YjJhMzg1NCIsInN1YiI6IjYyNDQyMTgyOTQ1MWU3MDA1ZTdiN2U1MSIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.0VdGI5HdDNuYsx_cort6fRUaYkHbRRPT0WAAyPY6Qq4
+
+App - https://netflix-clone-e4ff1.web.app
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
